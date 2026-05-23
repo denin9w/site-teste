@@ -113,6 +113,8 @@ main a:hover{
 
 .imagem{
     width: 100%;
+    max-width: 300px
+    
 }
 .pequena{
     width: 300px;
