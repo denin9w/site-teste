@@ -81,7 +81,7 @@ main h2{
     font-family: var(--font-destaque);
     padding: 10px 10px;
     background-image: linear-gradient(to right, var(--cor2), transparent);
-    border-radius: 4px;
+    border-radius: 6px;
     color: var(--cor4);
 }
 
